@@ -48,6 +48,4 @@ npm run dev
 
 ## 💬 Author
 
-Made with ❤️ by Laxmi
-
-```
+Made with ❤️ by Laxmi Biradar
