@@ -1,0 +1,25 @@
+.InfoBox {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    transition: transform 0.3s ease;
+}
+
+.cardContainer:hover {
+  transform: scale(1.03);
+}
+
+@media screen and (max-width: 480px) {
+  .SearchBox, .InfoBox {
+    padding: 10px;
+  }
+
+  .MuiCard-root {
+    max-width: 90vw !important;
+  }
+}
