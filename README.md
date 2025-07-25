@@ -1,24 +1,24 @@
-# 🌦️ React Weather App
+#  React Weather App
 
 A simple and modern weather app built with **React** and **Material UI (MUI)** that allows users to search for real-time weather information by city name using the **OpenWeatherMap API**.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔍 Search weather by city name
-- 🌡️ Displays:
+  - Search weather by city name
+  - Displays:
   - Current Temperature
   - Min/Max Temperature
   - Humidity
   - Feels Like
   - Weather Description
-- ⚠️ Error handling for invalid cities
-- 🎨 Stylish UI with Material UI and responsive design
+  - Error handling for invalid cities
+  - Stylish UI with Material UI and responsive design
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React
 - JavaScript (ES6+)
@@ -28,7 +28,7 @@ A simple and modern weather app built with **React** and **Material UI (MUI)** t
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone the repo
@@ -46,6 +46,6 @@ npm run dev
 
 ---
 
-## 💬 Author
+##  Author
 
 Made with ❤️ by Laxmi Biradar
